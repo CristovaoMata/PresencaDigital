@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6218B850-49CE-4818-9ABF-B62BBAF96CE2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CapaPresentacao</RootNamespace>
+    <AssemblyName>CapaPresentacao</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ControlesPersonalizados, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ControlesPersonalizados.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ajudas\ValidacaoDados.cs" />
+    <Compile Include="Formulários\JanelasInicio\FrmBoaVinda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\JanelasInicio\FrmBoaVinda.Designer.cs">
+      <DependentUpon>FrmBoaVinda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\JanelasInicio\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\JanelasInicio\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\JanelasInicio\FrmProcessamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\JanelasInicio\FrmProcessamento.Designer.cs">
+      <DependentUpon>FrmProcessamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\JanelasMenu\FrmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\JanelasMenu\FrmHome.Designer.cs">
+      <DependentUpon>FrmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\JanelasMenu\FrmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\JanelasMenu\FrmMenu.Designer.cs">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Alunos\FrmAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Alunos\FrmAluno.Designer.cs">
+      <DependentUpon>FrmAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Alunos\FrmCadastroAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Alunos\FrmCadastroAluno.Designer.cs">
+      <DependentUpon>FrmCadastroAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Alunos\FrmDetalheAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Alunos\FrmDetalheAluno.Designer.cs">
+      <DependentUpon>FrmDetalheAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Cursos\FrmCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Cursos\FrmCurso.Designer.cs">
+      <DependentUpon>FrmCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Cursos\FrmDetalheCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Cursos\FrmDetalheCurso.Designer.cs">
+      <DependentUpon>FrmDetalheCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Presença\FrmPresenca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Presença\FrmPresenca.Designer.cs">
+      <DependentUpon>FrmPresenca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Presença\FrmSelecaoTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Presença\FrmSelecaoTurma.Designer.cs">
+      <DependentUpon>FrmSelecaoTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Turmas\FrmDetalheTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Turmas\FrmDetalheTurma.Designer.cs">
+      <DependentUpon>FrmDetalheTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Turmas\FrmTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\SubJanelas\Turmas\FrmTurma.Designer.cs">
+      <DependentUpon>FrmTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formulários\JanelasInicio\FrmBoaVinda.resx">
+      <DependentUpon>FrmBoaVinda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\JanelasInicio\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\JanelasInicio\FrmProcessamento.resx">
+      <DependentUpon>FrmProcessamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\JanelasMenu\FrmHome.resx">
+      <DependentUpon>FrmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\JanelasMenu\FrmMenu.resx">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\SubJanelas\Alunos\FrmAluno.resx">
+      <DependentUpon>FrmAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\SubJanelas\Alunos\FrmCadastroAluno.resx">
+      <DependentUpon>FrmCadastroAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\SubJanelas\Alunos\FrmDetalheAluno.resx">
+      <DependentUpon>FrmDetalheAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\SubJanelas\Cursos\FrmCurso.resx">
+      <DependentUpon>FrmCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\SubJanelas\Cursos\FrmDetalheCurso.resx">
+      <DependentUpon>FrmDetalheCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\SubJanelas\Presença\FrmPresenca.resx">
+      <DependentUpon>FrmPresenca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\SubJanelas\Presença\FrmSelecaoTurma.resx">
+      <DependentUpon>FrmSelecaoTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\SubJanelas\Turmas\FrmDetalheTurma.resx">
+      <DependentUpon>FrmDetalheTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\SubJanelas\Turmas\FrmTurma.resx">
+      <DependentUpon>FrmTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="VerModelos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\MessageBoxCustomizada\MessageBoxCustomizada\MessageBoxCustomizada.csproj">
+      <Project>{d5bdb706-1f48-40e8-b99a-8bbd444ebfca}</Project>
+      <Name>MessageBoxCustomizada</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaDominio\CapaDominio.csproj">
+      <Project>{9ab77fb2-9aa8-486f-8639-46d926bff920}</Project>
+      <Name>CapaDominio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_multiply_52px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_multiply_26px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_multiply_16px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_subtract_16px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-CM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_password_200px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_locked_with_key_120px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_key_120px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_password_1_120px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_error_120px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG-20221111-WA0009_edited.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_contact_details_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_street_view_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_street_view_50px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_contact_details_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_edit_property_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_bulleted_list_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_open_book_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_new_copy_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_edit_property_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_edit_property_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_multiply_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_new_copy_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_study_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_plus_math_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_edit_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_contact_details_50px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_restore_down_16px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_maximize_button_16px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_maximize_button_16px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_maximize_button_16px_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_maximize_button_16px_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_home_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_menu_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_male_user_120px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_report_card_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_graduation_cap_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_class_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_google_classroom_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_save_32px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

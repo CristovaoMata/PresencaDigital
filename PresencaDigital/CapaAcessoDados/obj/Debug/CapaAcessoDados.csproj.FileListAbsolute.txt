@@ -1,0 +1,10 @@
+C:\Users\mata2\source\repos\PresencaDigital\CapaAcessoDados\bin\Debug\CapaAcessoDados.dll
+C:\Users\mata2\source\repos\PresencaDigital\CapaAcessoDados\bin\Debug\CapaAcessoDados.pdb
+C:\Users\mata2\source\repos\PresencaDigital\CapaAcessoDados\obj\Debug\CapaAcessoDados.dll
+C:\Users\mata2\source\repos\PresencaDigital\CapaAcessoDados\obj\Debug\CapaAcessoDados.pdb
+C:\Users\mata2\source\repos\PresencaDigital\CapaAcessoDados\obj\Debug\CapaAcessoDados.csprojResolveAssemblyReference.cache
+E:\PresencaDigital\CapaAcessoDados\bin\Debug\CapaAcessoDados.dll
+E:\PresencaDigital\CapaAcessoDados\bin\Debug\CapaAcessoDados.pdb
+E:\PresencaDigital\CapaAcessoDados\obj\Debug\CapaAcessoDados.csprojResolveAssemblyReference.cache
+E:\PresencaDigital\CapaAcessoDados\obj\Debug\CapaAcessoDados.dll
+E:\PresencaDigital\CapaAcessoDados\obj\Debug\CapaAcessoDados.pdb

@@ -1,0 +1,249 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.ide
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uild[Ll]og/
+
+# Enable "build/" directory to support npm-based builds
+# (https://docs.microsoft.com/en-us/aspnet/core/client-side/using-gulp?tabs=aspnetcore2x)
+#build/
+
+# Visual Studio 2015/2017/2019 cache/options directory
+.vs/
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+*.DotSettings
+
+# JustCode
+.JustCode
+.JustCode.user
+
+# TeamCity
+_TeamCity*
+
+# DotCover
+*.dotCover
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject is a documentation generator add-in
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+# Click-Once directory
+publish/
+
+# Publish Web Output
+*.[Pp]ublish.xml
+*.azurePubxml
+# Note: Comment the next line if you want to check in your web deploy settings
+# but database connection strings (with potential passwords) will be unencrypted
+#*.pubxml
+*.publishproj
+
+# Microsoft Azure Web App publish settings
+# Note: Comment the next line if you want to check in your Azure Web App publish settings,
+# but database connection strings (with potential passwords) will be unencrypted
+#*.azurePubxml
+#*.pubxml
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary, however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+# NuGet v3's project.json files produces more ignoreable files
+*.nuget.props
+*.nuget.targets
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-oss/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# macOS hidden files
+.DS_Store
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Directories for JetBrains Projector plugin
+.idea/
+.projector/
+
+# Local History plugin files
+*.localhistory/
+
+# Rider Local History
+.idea/
+
+# Rider Data
+.idea/dataSources
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.json
+.idea/dataSources.settings.xml
+.idea/shelf
+.idea/workspace.xml
+
+# Rider Data that is okay to check in
+.idea/gradle.xml
+.idea/libraries
+
+# Comment the following lines if you have an IML project in IntelliJ
+*.iws
+*.iml
+*.ipr
+
+# Windows Thumbnail Cache files
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Ionide (F#)
+.ionide/
+
+# Fody - a tool to simplify and reduce the cost of creating and maintaining an API.
+FodyWeavers.xml
+
+# StyleCop (C# Style Checker)
+StyleCopReport.xml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
+*.pyo
+
+# Cake - Uncomment if you are using it
+# tools/**/*
+# !tools/packages.config
+
+# Tabs Studio
+*.tss
+
+# Telerik's JustMock configuration file
+*.jmconfig
+
+# BizTalk build output
+*.btp.sln.cache
+
+# OpenCover UI analysis results
+OpenCover/
+
+# ASP.NET Temporary files
+App_Data/Temp/
+
+# Rider and Resharper
+.idea/
+_ReSharper*
+*_ReSharper*
+.idea_modules/
+
+# dotCover
+*.dotCover
+
+# DotSettings file
+*.DotSettings
+
+# Rider External annotations
+.idea/Lib/Annotations/
+
+# macOS hidden files
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# End of .gitignore

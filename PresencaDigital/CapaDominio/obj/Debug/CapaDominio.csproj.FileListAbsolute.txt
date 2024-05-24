@@ -1,0 +1,16 @@
+C:\Users\mata2\source\repos\PresencaDigital\CapaDominio\obj\Debug\CapaDominio.csproj.AssemblyReference.cache
+C:\Users\mata2\source\repos\PresencaDigital\CapaDominio\obj\Debug\CapaDominio.csproj.CoreCompileInputs.cache
+C:\Users\mata2\source\repos\PresencaDigital\CapaDominio\bin\Debug\CapaDominio.dll
+C:\Users\mata2\source\repos\PresencaDigital\CapaDominio\bin\Debug\CapaDominio.pdb
+C:\Users\mata2\source\repos\PresencaDigital\CapaDominio\bin\Debug\CapaAcessoDados.dll
+C:\Users\mata2\source\repos\PresencaDigital\CapaDominio\bin\Debug\CapaAcessoDados.pdb
+C:\Users\mata2\source\repos\PresencaDigital\CapaDominio\obj\Debug\CapaDominio.csproj.CopyComplete
+C:\Users\mata2\source\repos\PresencaDigital\CapaDominio\obj\Debug\CapaDominio.dll
+C:\Users\mata2\source\repos\PresencaDigital\CapaDominio\obj\Debug\CapaDominio.pdb
+E:\PresencaDigital\CapaDominio\bin\Debug\CapaDominio.dll
+E:\PresencaDigital\CapaDominio\bin\Debug\CapaDominio.pdb
+E:\PresencaDigital\CapaDominio\bin\Debug\CapaAcessoDados.dll
+E:\PresencaDigital\CapaDominio\bin\Debug\CapaAcessoDados.pdb
+E:\PresencaDigital\CapaDominio\obj\Debug\CapaDominio.csprojResolveAssemblyReference.cache
+E:\PresencaDigital\CapaDominio\obj\Debug\CapaDominio.dll
+E:\PresencaDigital\CapaDominio\obj\Debug\CapaDominio.pdb

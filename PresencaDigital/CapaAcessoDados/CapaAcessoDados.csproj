@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7631A6D8-727F-4060-A4B8-8D403FEB961B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>CapaAcessoDados</RootNamespace>
+    <AssemblyName>CapaAcessoDados</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Contactos\IRepositorioAlunos.cs" />
+    <Compile Include="Contactos\IRepositorioCursos.cs" />
+    <Compile Include="Contactos\IRepositorioDias.cs" />
+    <Compile Include="Contactos\IRepositorioGeral.cs" />
+    <Compile Include="Contactos\IRepositorioPresencas.cs" />
+    <Compile Include="Contactos\IRepositorioTurmas.cs" />
+    <Compile Include="Entidades\Aluno.cs" />
+    <Compile Include="Entidades\Cursos.cs" />
+    <Compile Include="Entidades\Dias.cs" />
+    <Compile Include="Entidades\Presenca.cs" />
+    <Compile Include="Entidades\Turmas.cs" />
+    <Compile Include="Repositorios\ReposiorioMae.cs" />
+    <Compile Include="Repositorios\Repositorio.cs" />
+    <Compile Include="Repositorios\RepositorioAlunos.cs" />
+    <Compile Include="Repositorios\RepositorioCursos.cs" />
+    <Compile Include="Repositorios\RepositorioDias.cs" />
+    <Compile Include="Repositorios\RepositorioPresencas.cs" />
+    <Compile Include="Repositorios\RepositorioTurmas.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

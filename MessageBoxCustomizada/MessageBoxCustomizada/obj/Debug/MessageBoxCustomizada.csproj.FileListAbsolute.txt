@@ -1,0 +1,32 @@
+C:\Users\mata2\source\repos\MessageBoxCustomizada\MessageBoxCustomizada\bin\Debug\MessageBoxCustomizada.pdb
+C:\Users\mata2\source\repos\MessageBoxCustomizada\MessageBoxCustomizada\bin\Debug\ControlesPersonalizados.dll
+C:\Users\mata2\source\repos\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.FormMessageBox.resources
+C:\Users\mata2\source\repos\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.Properties.Resources.resources
+C:\Users\mata2\source\repos\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.Test.Form1.resources
+C:\Users\mata2\source\repos\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.csproj.GenerateResource.cache
+C:\Users\mata2\source\repos\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.pdb
+C:\Users\mata2\source\repos\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.csproj.AssemblyReference.cache
+C:\Users\mata2\source\repos\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.csproj.CoreCompileInputs.cache
+C:\Users\mata2\source\repos\MessageBoxCustomizada\MessageBoxCustomizada\bin\Debug\MessageBoxCustomizada.dll
+C:\Users\mata2\source\repos\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.csproj.CopyComplete
+C:\Users\mata2\source\repos\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.dll
+G:\Projectos\C#\Projectos P VS 2019\repos\NetFramework 4.5\MessageBoxCustomizada\MessageBoxCustomizada\bin\Debug\MessageBoxCustomizada.dll
+G:\Projectos\C#\Projectos P VS 2019\repos\NetFramework 4.5\MessageBoxCustomizada\MessageBoxCustomizada\bin\Debug\MessageBoxCustomizada.pdb
+G:\Projectos\C#\Projectos P VS 2019\repos\NetFramework 4.5\MessageBoxCustomizada\MessageBoxCustomizada\bin\Debug\ControlesPersonalizados.dll
+G:\Projectos\C#\Projectos P VS 2019\repos\NetFramework 4.5\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.csprojResolveAssemblyReference.cache
+G:\Projectos\C#\Projectos P VS 2019\repos\NetFramework 4.5\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.FormMessageBox.resources
+G:\Projectos\C#\Projectos P VS 2019\repos\NetFramework 4.5\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.Properties.Resources.resources
+G:\Projectos\C#\Projectos P VS 2019\repos\NetFramework 4.5\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.Test.Form1.resources
+G:\Projectos\C#\Projectos P VS 2019\repos\NetFramework 4.5\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.csproj.GenerateResource.Cache
+G:\Projectos\C#\Projectos P VS 2019\repos\NetFramework 4.5\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.dll
+G:\Projectos\C#\Projectos P VS 2019\repos\NetFramework 4.5\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.pdb
+E:\MessageBoxCustomizada\MessageBoxCustomizada\bin\Debug\MessageBoxCustomizada.dll
+E:\MessageBoxCustomizada\MessageBoxCustomizada\bin\Debug\MessageBoxCustomizada.pdb
+E:\MessageBoxCustomizada\MessageBoxCustomizada\bin\Debug\ControlesPersonalizados.dll
+E:\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.csprojResolveAssemblyReference.cache
+E:\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.FormMessageBox.resources
+E:\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.Properties.Resources.resources
+E:\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.Test.Form1.resources
+E:\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.csproj.GenerateResource.Cache
+E:\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.dll
+E:\MessageBoxCustomizada\MessageBoxCustomizada\obj\Debug\MessageBoxCustomizada.pdb
