@@ -52,3 +52,33 @@ E:\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.SubJan
 E:\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.JanelasMenu.FrmHome.resources
 E:\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.SubJanelas.Presença.FrmSelecaoTurma.resources
 E:\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.SubJanelas.Presença.FrmPresenca.resources
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\bin\Debug\CapaPresentacao.exe.config
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\bin\Debug\CapaPresentacao.exe
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\bin\Debug\CapaPresentacao.pdb
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\bin\Debug\CapaDominio.dll
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\bin\Debug\MessageBoxCustomizada.dll
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\bin\Debug\CapaAcessoDados.dll
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\bin\Debug\MessageBoxCustomizada.pdb
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\bin\Debug\CapaDominio.pdb
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\bin\Debug\CapaAcessoDados.pdb
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.csproj.AssemblyReference.cache
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.JanelasInicio.FrmBoaVinda.resources
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.JanelasInicio.FrmLogin.resources
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.JanelasInicio.FrmProcessamento.resources
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.JanelasMenu.FrmHome.resources
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.JanelasMenu.FrmMenu.resources
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.SubJanelas.Alunos.FrmAluno.resources
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.SubJanelas.Alunos.FrmCadastroAluno.resources
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.SubJanelas.Alunos.FrmDetalheAluno.resources
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.SubJanelas.Cursos.FrmCurso.resources
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.SubJanelas.Cursos.FrmDetalheCurso.resources
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.SubJanelas.Presença.FrmPresenca.resources
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.SubJanelas.Presença.FrmSelecaoTurma.resources
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.SubJanelas.Turmas.FrmDetalheTurma.resources
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Formulários.SubJanelas.Turmas.FrmTurma.resources
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.Properties.Resources.resources
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.csproj.GenerateResource.cache
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPres.FBFEFEC9.Up2Date
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.exe
+C:\Users\Cristóvão Mata\Documents\Projectos no GitHub\Presença digital\PresencaDigital\CapaPresentacao\obj\Debug\CapaPresentacao.pdb
